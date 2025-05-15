@@ -1,4 +1,4 @@
-examonhpc/examon:0.2.2
-examonhpc/grafana:7.3.10
-examonhpc/kairosdb:1.2.2
-examonhpc/cassandra:3.0.19
+examonhpc/examon:latest
+examonhpc/grafana:latest
+examonhpc/kairosdb:latest
+examonhpc/cassandra:latest
